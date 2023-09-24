@@ -1,0 +1,28 @@
+baseURL = 'https://rullypratama.com/'
+languageCode = 'id'
+theme = 'black-and-light'
+
+canonifyurls = true
+
+title = 'Rully Pratama Blog'
+author = 'Rully Pratama'
+
+pygmentsstyle       = 'bw'
+pygmentscodefences  = true
+
+[params]
+  sitename = 'Rully Pratama Blog'
+  disableWebFonts = false
+
+[permalinks]
+  posts = '/:slug'
+
+[[menu.main]]
+    name = "Blog"
+    url  = "/"
+[[menu.main]]
+    name = "About"
+    url  = "/about"
+[[menu.main]]
+    name = "Resume"
+    url  = "/resume"
