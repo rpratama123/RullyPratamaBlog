@@ -1,4 +1,4 @@
-baseURL = 'https://rullypratama.com/'
+baseURL = '/'
 languageCode = 'id'
 theme = 'black-and-light'
 
