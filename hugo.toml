@@ -26,3 +26,8 @@ pygmentscodefences  = true
 [[menu.main]]
     name = "Resume"
     url  = "/resume"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

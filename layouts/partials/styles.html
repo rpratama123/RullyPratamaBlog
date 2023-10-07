@@ -38,12 +38,13 @@
 
   pre, code {
     font: 12px "JetBrains Mono", Consolas, "Liberation Mono", Menlo, Courier, monospace;
-    background-color: #f7f7f7;
+    background-color: #f2f2f2;
   }
 
   code {
     font-size: 12px;
     padding: 4px;
+	border-radius: 6px;
   }
 
   pre {
@@ -54,6 +55,8 @@
     overflow: auto;
     font-size: 85%;
     line-height: 1.45;
+	border: 1px solid #ddd;
+    border-radius: 6px
   }
 
   pre>code {
@@ -95,7 +98,7 @@
   }
 
   .heading,.serif,h1,h2,h3 {
-    font-family:"Old Standard TT",serif;
+    font-family:"Raleway",serif;
   }
 
   strong {
@@ -115,7 +118,7 @@
   }
 
   blockquote {
-    font-family:"Old Standard TT",serif;
+    font-family:"Raleway",serif;
     text-align:center;
     padding:50px;
   }
@@ -126,7 +129,7 @@
   }
 
   blockquote:before,blockquote:after {
-    font-family:"Old Standard TT",serif;
+    font-family:"Raleway",serif;
     content:'\201C';
     font-size:35px;
     color:#403c3b;
@@ -145,6 +148,7 @@
 
   h1 {
     font-size:35px;
+	line-height: 120%;
   }
 
   h2 {
@@ -202,6 +206,18 @@
     content:'';
     margin-right:0;
   }
+
+/* table */
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    padding: 8px 8px 8px 0px;
+    text-align: left;
+    border-bottom: 1.5px solid #ddd;
+}
 
   #content {
     text-align:left;
@@ -283,7 +299,7 @@
   }
 
   #not-found a {
-    font-family:"Old Standard TT",serif;
+    font-family:"Raleway",serif;
     font-size: 200px;
     text-decoration: none;
     display: inline-block;
@@ -358,21 +374,21 @@
     }
   }
 
-  @media (prefers-color-scheme: light) {
+  @media {
     *, #nav h1 a {
-      color: #FDFDFD;
+      color: #0F0C0C;
     }
 
     body {
-      background: #121212;
+      background: #FFFFFF;
     }
 
     pre, code {
-      background-color: #262626;
+      background-color: #F8F8F8;
     }
 
     #sub-header, .date {
-      color: #BABABA;
+      color: #BD2C00;
     }
 
     hr {
