@@ -9,8 +9,10 @@
     <meta name="description" content="{{ .Description | default .Site.Params.Description }}">
 
     {{ if not .Site.Params.disableWebFonts }}
-      <link href="https://fonts.googleapis.com/css?family=Open+Sans:400|JetBrains+Mono:400|Raleway:700&display=swap" rel="stylesheet" media="print" type="text/css" onload="this.media='all'">
+      <link href="https://fonts.googleapis.com/css?family=Open+Sans:400|JetBrains+Mono:400|Raleway:500;700&display=swap" rel="stylesheet" media="print" type="text/css" onload="this.media='all'">
     {{ end }}
+
+	<link rel="preload" href="/assets/font/2aaf0723e720e8b9.p.woff2" as="font" type="font/woff2" crossorigin="anonymous"/>
 
     <title>
       {{ $url := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}

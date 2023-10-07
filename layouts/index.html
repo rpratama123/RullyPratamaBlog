@@ -5,6 +5,7 @@
     {{ range .Site.RegularPages }}
       <li>
         <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+		<p>{{ .Description }}</p>
         <div class=date>
           {{if not .Date.IsZero }}
             {{ .Date.Format (.Site.Params.dateform | default "January 2006") }}
