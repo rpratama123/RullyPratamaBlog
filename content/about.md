@@ -1,30 +1,16 @@
 +++
-title = "About Hugo"
-date = "2014-04-09"
-hidden = true
+title = "Hi, I'm Rully Pratama!"
+unlisted = true
 +++
 
-Hugo is a static site engine written in Go.
+![Rully Pratama](/assets/images/about-me.jpg)
 
+Halo! Saya Rully. Saat ini saya bekerja di perusahaan *outsourcing contact center*. Posisi saya saat ini berkaitan erat dengan analisa bisnis melalui report, terkhusus menggunakan platform *Business Intelligence* (BI) seperti Microsoft Power BI.
 
-It makes use of a variety of open source projects including:
+Meski begitu, saya memiliki passion yang besar di bidang teknologi dan fotografi. Kamu akan menemukan banyak tulisan saya mengenai hal-hal tersebut di sini.
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
+### Hubungi saya melalui:
 
-Learn more and contribute on [GitHub](https://github.com/spf13).
+[rullypratama@outlook.com](mailto:rullypratama@outlook.com)
 
-## Setup
-
-Some fun facts about [Hugo](http://gohugo.io/):
-
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
-
-Thanks for reading!
+Terima kasih telah berkunjung ke blog ini ✨

@@ -13,6 +13,7 @@ pygmentscodefences  = true
 [params]
   sitename = 'Rully Pratama Blog'
   disableWebFonts = false
+  uselatex = true
 
 [permalinks]
   posts = '/:slug'
@@ -25,7 +26,7 @@ pygmentscodefences  = true
     url  = "/about"
 [[menu.main]]
     name = "Resume"
-    url  = "/resume"
+    url  = "/assets/resume/resume.html"
 
 [markup]
   [markup.goldmark]

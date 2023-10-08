@@ -24,5 +24,7 @@
 </section>
 
 {{ partial "footer.html" . }}
-
+{{ if .Site.Params.uselatex }}
+        {{ partial "footer_mathjax.html" . }}
+{{ end }}
 
