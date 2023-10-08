@@ -6,7 +6,7 @@ title: "FreeBSD Sebagai Sistem Operasi Sehari-hari di Tahun 2021"
 url: "/freebsd-sebagai-sistem-operasi-sehari-hari-di-tahun-2021/"
 
 description: "Gimana rasanya bila OS FreeBSD dijadikan sistem operasi sehari-hari? Yuk simak di sini"
-image: "/assets/images/2021/freebsd-2021/freebsd-desktop-small.jpg"
+image: "assets/images/2021/freebsd-2021/freebsd-desktop-small.jpg"
 
 keywords:
 - FreeBSD

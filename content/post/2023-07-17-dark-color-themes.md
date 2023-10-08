@@ -6,7 +6,7 @@ title: "Dark Themes untuk Aplikasi-Aplikasi yang Sering Digunakan"
 url: "/dark-color-themes/"
 
 description: "Jadikan Nvidia P106-100, GPU bekas mining, sebagai GPU gaming murah meriah"
-image: "/assets/images/2023/dark-themes/dark-theme-cover.jpg"
+image: "assets/images/2023/dark-themes/dark-theme-cover.jpg"
 
 keywords:
 - dark theme

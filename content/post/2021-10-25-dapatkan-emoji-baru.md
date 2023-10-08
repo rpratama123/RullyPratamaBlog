@@ -6,7 +6,7 @@ title: "Dapatkan Windows 11 Fluent Emoji untuk Windows 10 dan Windows 11"
 url: "/dapatkan-emoji-baru/"
 
 description: "Windows 11 menghadirkan set emoji yang baru. Emoji ini bisa dipasang di Windows 10 juga lho!"
-image: "/assets/images/2021/win11-emoji/win11-emoji-cover.jpg"
+image: "assets/images/2021/win11-emoji/win11-emoji-cover.jpg"
 
 keywords:
 - windows 11

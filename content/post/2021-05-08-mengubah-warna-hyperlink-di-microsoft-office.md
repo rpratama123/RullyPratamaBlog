@@ -6,7 +6,7 @@ title: "Mengubah Warna Hyperlink di Microsoft Word, Excel, dan PowerPoint"
 url: "/mengubah-warna-hyperlink-di-microsoft-office/"
 
 description: "Hyperlink atau link di Microsoft Office biasanya berwarna biru tua. Bagaimana trik untuk membuatnya menjadi warna lain?"
-image: "/assets/images/2021/formatting-link/ms_office_hyperlink_banner.jpg"
+image: "assets/images/2021/formatting-link/ms_office_hyperlink_banner.jpg"
 
 keywords:
 - Microsoft Office

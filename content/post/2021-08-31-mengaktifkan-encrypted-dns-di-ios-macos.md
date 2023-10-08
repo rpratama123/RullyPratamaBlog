@@ -6,7 +6,7 @@ title: "Cara Mengaktifkan Encrypted DNS di Perangkat iOS dan macOS"
 url: "/mengaktifkan-encrypted-dns-di-ios-macos/"
 
 description: "Amankan traffic internet kamu dari blokir menggunakan encrypted DNS"
-image: "/assets/images/2021/ios-encrypted-dns/secure-dns-thumbnail.jpg"
+image: "assets/images/2021/ios-encrypted-dns/secure-dns-thumbnail.jpg"
 
 keywords:
 - encrypted dns

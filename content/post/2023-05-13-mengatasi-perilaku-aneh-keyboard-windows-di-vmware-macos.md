@@ -6,7 +6,7 @@ title: "Mengatasi Perilaku Aneh Keyboard Windows di VMWare Fusion macOS"
 url: "/mengatasi-perilaku-aneh-keyboard-windows-di-vmware-macos/"
 
 description: "Virtualisasi Windows di macOS menyisakan beberapa pertanyaan aneh soal perilaku keyboard dan mouse"
-image: "/assets/images/2023/hackintosh-tricks/hackintosh-keyboard-tricks.jpeg"
+image: "assets/images/2023/hackintosh-tricks/hackintosh-keyboard-tricks.jpeg"
 
 keywords:
 - hackintosh

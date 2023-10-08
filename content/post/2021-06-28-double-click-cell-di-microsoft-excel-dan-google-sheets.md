@@ -6,7 +6,7 @@ title: "Cari Tahu Lebih Dalam Tentang Double Click Cell di Microsoft Excel dan G
 url: "/double-click-cell-di-microsoft-excel-dan-google-sheets/"
 
 description: "Kenapa double click cell di Excel dan Sheets bisa berbeda-beda hasilnya? Begini penjelasannya..."
-image: "/assets/images/2021/excel-cell-double-click/double-click-excel.jpg"
+image: "assets/images/2021/excel-cell-double-click/double-click-excel.jpg"
 
 keywords:
 - Excel

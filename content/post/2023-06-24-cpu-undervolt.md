@@ -6,7 +6,7 @@ title: "CPU Undervolt: Makin Adem dan Irit Daya"
 url: "/cpu-undervolt/"
 
 description: "Cara mudah dan gratis untuk membuat CPU makin adem dan irit daya yaitu dengan undervolting"
-image: "/assets/images/2023/cpu-undervolting/CPU-Undervolt_Cover.jpg"
+image: "assets/images/2023/cpu-undervolting/CPU-Undervolt_Cover.jpg"
 
 keywords:
 - cpu undervolt

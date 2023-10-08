@@ -6,7 +6,7 @@ title: "Mencoba Google Camera di Ponsel Android non Google Pixel"
 url: "/mencoba-google-camera-di-ponsel-androidinon-google-pixel/"
 
 description: "Gimana rasanya menggunakan aplikiasi Google Camera di hape selain Google Pixel?"
-image: "/assets/images/2019/gcam/GCam_thumb_facebook.jpg"
+image: "assets/images/2019/gcam/GCam_thumb_facebook.jpg"
 
 keywords:
 - Google Camera

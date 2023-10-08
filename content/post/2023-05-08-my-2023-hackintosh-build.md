@@ -6,7 +6,7 @@ title: "Intel Core i5-12500 Hackintosh dengan Gigabyte B660M DS3H DDR4"
 url: "/my-2023-hackintosh-build/"
 
 description: "Saya sukses membuat Hackintosh di platform Intel 12th Gen, alias Alder Lake. Hampir semuanya berfungsi dengan baik."
-image: "/assets/images/2023/hackintosh/hackintosh.jpg"
+image: "assets/images/2023/hackintosh/hackintosh.jpg"
 
 keywords:
 - hackintosh

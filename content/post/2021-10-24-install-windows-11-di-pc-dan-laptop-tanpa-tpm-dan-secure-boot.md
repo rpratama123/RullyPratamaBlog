@@ -6,7 +6,7 @@ title: "Install Windows 11 di PC dan Laptop Tanpa TPM dan Secure Boot"
 url: "/install-windows-11-di-pc-dan-laptop-tanpa-tpm-dan-secure-boot/"
 
 description: "Penasaran sih sama Windows 11, tapi kok PC harus support TPM dan Secure Boot. Begini cara bypass-nya..."
-image: "/assets/images/2021/install-win11/win-11-cover.jpg"
+image: "assets/images/2021/install-win11/win-11-cover.jpg"
 
 keywords:
 - windows 11

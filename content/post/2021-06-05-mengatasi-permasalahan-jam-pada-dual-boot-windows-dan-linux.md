@@ -6,7 +6,7 @@ title: "Mengatasi Permasalahan Jam Pada Dual Boot Windows dan Linux"
 url: "/mengatasi-permasalahan-jam-pada-dual-boot-windows-dan-linux/"
 
 description: "Setiap berpindah dari Linux ke Windows jam jadi kacau? Begini penjelasannya..."
-image: "/assets/images/2021/jam-dual-boot/time.png"
+image: "assets/images/2021/jam-dual-boot/time.png"
 
 keywords:
 - dual boot

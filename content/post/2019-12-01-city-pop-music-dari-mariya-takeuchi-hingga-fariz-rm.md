@@ -6,7 +6,7 @@ title: "City Pop Music: Dari Mariya Takeuchi hingga Fariz RM"
 url: "/city-pop-music-dari-mariya-takeuchi-hingga-fariz-rm/"
 
 description: "Musik city pop asal Jepang pun juga sempat nge-trend di Indonesia di tahun 80-an"
-image: "/assets/images/2019/city-pop/City_pop.jpg"
+image: "assets/images/2019/city-pop/City_pop.jpg"
 
 keywords:
 - city pop

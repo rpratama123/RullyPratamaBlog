@@ -6,7 +6,7 @@ title: "Shutdown Otomatis Komputer Tanpa Aplikasi Tambahan"
 url: "/shutdown-otomatis-komputer-tanpa-aplikasi-tambahan/"
 
 description: "Mau tahu cara timer shutdown pada komputer tanpa aplikasi tambahan? Simak berikut ini..."
-image: "/assets/images/2019/shutdown/shutdown-0.jpg"
+image: "assets/images/2019/shutdown/shutdown-0.jpg"
 
 keywords:
 - shutdown otomatis

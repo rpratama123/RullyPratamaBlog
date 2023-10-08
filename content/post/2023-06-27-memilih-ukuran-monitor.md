@@ -6,7 +6,7 @@ title: "Selain Resolusi, Perhatikan Juga Ukuran Diagonal Saat Membeli Monitor"
 url: "/memilih-ukuran-monitor/"
 
 description: "Perhatikan beberapa hal ini agar tidak salah pilih ketika akan membeli monitor"
-image: "/assets/images/2023/monitor-size/Monitor-Size-Cover.jpg"
+image: "assets/images/2023/monitor-size/Monitor-Size-Cover.jpg"
 
 keywords:
 - tips memilih monitor
