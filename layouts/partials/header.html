@@ -28,7 +28,8 @@
     {{ if not .Site.Params.disableWebFonts }}
 	  <link rel="preconnect" href="https://fonts.googleapis.com">
 	  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-	  <link rel="preload" href="https://fonts.googleapis.com/css2?family=JetBrains+Mono&family=Playfair+Display:wght@600&family=Roboto:ital,wght@0,400;0,500;0,700;1,400&display=swap" rel="stylesheet">
+	  <link rel="preload" href="https://fonts.googleapis.com/css2?family=JetBrains+Mono&family=Playfair+Display:wght@600&family=Roboto:ital,wght@0,400;0,500;0,700;1,400&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+	  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=JetBrains+Mono&family=Playfair+Display:wght@600&family=Roboto:ital,wght@0,400;0,500;0,700;1,400&display=swap"></noscript>
     {{ end }}
 	
     <title>

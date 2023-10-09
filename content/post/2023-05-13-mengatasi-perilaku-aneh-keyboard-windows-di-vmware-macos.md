@@ -21,7 +21,7 @@ categories:
 - Random
 ---
 
-Baru-baru ini, saya [memasang macOS di PC yang saya pakai sehari-hari]({% post_url 2023-05-08-my-2023-hackintosh-build %}), alias Hackintosh. Namun beberapa aplikasi yang berkaitan dengan pekerjaan hanya berjalan di Microsoft Windows. Salah satu contohnya adalah Microsoft Power BI. Sehingga mau tidak mau saya memasang *virtual machine* menggunakan VMWare Fusion untuk menjalankan aplikasi tersebut. Namun ada beberapa keanehan yang berkaitan dengan keyboard yang saya alami.
+Baru-baru ini, saya [memasang macOS di PC yang saya pakai sehari-hari]({{< relref "/post/2023-05-08-my-2023-hackintosh-build.md" >}}), alias Hackintosh. Namun beberapa aplikasi yang berkaitan dengan pekerjaan hanya berjalan di Microsoft Windows. Salah satu contohnya adalah Microsoft Power BI. Sehingga mau tidak mau saya memasang *virtual machine* menggunakan VMWare Fusion untuk menjalankan aplikasi tersebut. Namun ada beberapa keanehan yang berkaitan dengan keyboard yang saya alami.
 
 ## Ctrl + Arah Menyebabkan macOS Berpindah Desktop
 
