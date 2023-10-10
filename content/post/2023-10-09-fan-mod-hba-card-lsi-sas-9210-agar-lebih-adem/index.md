@@ -24,7 +24,7 @@ Baru-baru ini saya pindahkan komponen *Network Storage System* (NAS) yang awalny
 
 Untuk mengakomodasi *drive bay* yang lebih banyak, saya tambahkan HBA Card LSI 9210-8i yang berfungsi untuk 'menggandakan' port penyimpanan. HBA card ini dibuat untuk keperluan *enterprise* yang mana server-servernya berada di ruang yang sangat dingin dengan airflow yangs sangat bagus. Sehingga HBA card ini tidak dilengkapi dengan fan, hanya heatsink pasif saja.
 
-{{< image src="HBA-LSI-9210-8i-fan-mod.webp" width="700" />}}
+[![HBA LSI 9210-8i card, sebelum dan sesudah modifikasi fan](HBA-LSI-9210-8i-fan-mod-SMALL.webp)](HBA-LSI-9210-8i-fan-mod.webp)
 ❶ HBA card sebelum modifikasi; ❷ setelah modifikasi, fan terkoneksi ke kabel power SATA
 
 Saat berkerja, card ini cenderung jadi panas. Cara simpel untuk cek: pegang heatsink dengan dari, apabila terasa tidak tahan, maka kemungkinan sudah memerlukan pendinginan aktif.
@@ -36,7 +36,7 @@ Modifikasi ini mungkin juga bisa dilakukan pada HBA card seri lain. Ini bahan da
 1. Heat shrink tube, dengan ukuran sesuai dengan ukuran kabel fan - [link Tokopedia](https://www.tokopedia.com/search?st=&q=heat%20shrink%20tube&srp_component_id=02.01.00.00&srp_page_id=&srp_page_title=&navsource=)
 1. Solder, timah, gunting dan lakban kabel
 
-{{< image src="4cm-fan-and-sata-power-cable-extension.webp" width="700" />}}
+[![4 cm fan 12 V dan kabel SATA power extension](4cm-fan-and-sata-power-cable-extension-SMALL.webp)](4cm-fan-and-sata-power-cable-extension.webp.webp)
 ❶ 4 cm fan 12V; ❷ kabel SATA power extension
 
 Untungnya lubang yang ada pada heatsink card ini ukurannya sangat cocok dengan jarak lubang pada fan 4 cm. Sehingga untuk memasang fan pun sangat mudah:
