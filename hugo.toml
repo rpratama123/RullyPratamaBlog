@@ -7,6 +7,8 @@ canonifyurls = true
 title = 'Rully Pratama Blog'
 author = 'Rully Pratama'
 
+googleAnalytics = 'G-1NNK8DC7FT'
+
 pygmentsstyle       = 'bw'
 pygmentscodefences  = true
 

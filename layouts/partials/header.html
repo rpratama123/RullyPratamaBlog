@@ -43,8 +43,9 @@
     <link rel="canonical" href="{{ .Permalink }}">
 
 	{{ partial "favicon.html" . }}
-
     {{ partial "styles.html" . }}
+	
+	{{ template "_internal/google_analytics.html" . }}
 
     {{ range .AlternativeOutputFormats -}}
         {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
