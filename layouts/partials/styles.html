@@ -1,4 +1,12 @@
 <style>
+	/*
+	Workaround for a weird iOS text rendering issue -- https://stackoverflow.com/q/65849072
+	*/
+	@media screen and (max-device-width: 480px) {
+		body {
+			-webkit-text-size-adjust: none;
+		}
+	}
 
   * {
     border: 0;
@@ -32,6 +40,7 @@
     margin: 10px auto 10px auto;
     max-width: 100%;
     display: block;
+	height: auto;
   }
 
   .left-justify { float: left; }
