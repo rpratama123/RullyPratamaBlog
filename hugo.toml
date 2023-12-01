@@ -17,6 +17,8 @@ pygmentscodefences  = true
   disableWebFonts = false
   uselatex = true
 
+[Taxonomies]
+
 [permalinks]
   posts = '/:slug'
 

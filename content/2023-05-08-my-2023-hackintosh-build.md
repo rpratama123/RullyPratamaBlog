@@ -22,7 +22,7 @@ categories:
 
 Karena bosan dengan rutinitas yang itu-itu saja, dan karena saya sudah jarang bermain game juga, saya akhirnya menjadikan *daily driver* PC saya menjadi Hackintosh PC. Prosesor yang saya gunakan adalah Intel Core i5-12500, dipasangkan dengan motherboard Gigabyte B660M DS3H DDR4.
 
-Dikarenakan Intel 10th Gen adalah generasi terakhir yang iGPU-nya bisa bekerja di macOS, maka saya mau tidak mau harus memasang *discrete* GPU. Untuk sementara saya menggunakan AMD Radeon HD 7750, dan berencana untuk upgrade ke RX Vega 56 atau RX 6600. GPU yang saya gunakan awalnya terlalu 'tua' untuk dipasangkan dengan motherboard yang saya punya. [Namun dengan tool ini]({{< relref "/post/2023-04-29-gopupd.md" >}}), hal tersebut sudah tidak jadi masalah.
+Dikarenakan Intel 10th Gen adalah generasi terakhir yang iGPU-nya bisa bekerja di macOS, maka saya mau tidak mau harus memasang *discrete* GPU. Untuk sementara saya menggunakan AMD Radeon HD 7750, dan berencana untuk upgrade ke RX Vega 56 atau RX 6600. GPU yang saya gunakan awalnya terlalu 'tua' untuk dipasangkan dengan motherboard yang saya punya. [Namun dengan tool ini]({{< relref "/2023-04-29-gopupd.md" >}}), hal tersebut sudah tidak jadi masalah.
 
 ## Hardware Yang Digunakan
 
