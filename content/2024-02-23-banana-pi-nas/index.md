@@ -6,7 +6,7 @@ title: "Banana Pi NAS yang Hemat Energi"
 url: "/banana-pi-nas/"
 
 description: "Kali ini saya mencoba untuk migrasi NAS dari Unraid ke perangkat SBC Banana Pi. Seperti apa performanya, yuk coba cek di sini."
-image: "ganti-pc-lama-dengan-mini-pc-hemat-daya/banana-pi-nas-1.jpg"
+image: "banana-pi-nas/banana-pi-nas-1.jpg"
 
 keywords:
 - NAS hemat energi
